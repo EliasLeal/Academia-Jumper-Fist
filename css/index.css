@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+
+#banners{
+	max-width:	1300px;
+	margin: 0px auto 0px auto;
+}
+
+.navbar, body{
+	max-width: 1300px;
+	margin: 3px auto 0px auto;
+	background:black;
+}
+
+section{
+	max-width: 1300px;
+	margin: -60px auto -50px auto;
+}
+
+
+.card, nav, .tabela{
+	background: black;
+	color: white;
+}
+
+p{
+	color: white;
+}
+
+h2{
+	color: green;
+}
